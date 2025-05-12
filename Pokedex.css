@@ -12,6 +12,13 @@ body{
 }
 .N1{
   border: solid 3px black;
+display: flex;
+}
+.N2 {
+  display: flex;
+}
+.N3 {
+  display: flex;
 }
 img{
   display: flex;
