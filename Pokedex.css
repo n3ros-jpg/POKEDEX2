@@ -11,13 +11,15 @@ body{
   background-color: #425A43;
 }
 .N1{
-  border: solid 3px black;
-display: flex;
+ display: flex;
 }
 .N2 {
   display: flex;
 }
 .N3 {
+  display: flex;
+}
+.N4 {
   display: flex;
 }
 img{
